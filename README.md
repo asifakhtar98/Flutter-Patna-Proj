@@ -1,6 +1,6 @@
 # Flutter-Patna-Proj
 <p align="center"> 
-  <img src="readmeAssets/appName2x.png" alt="Pacman Logo"height="60px">
+  <img src="readmeAssets/appName2x.png" alt="Pacman Logo"height="auto">
 </p>
 <h1 align="center"> Flutter Interview Project </h1>
 <h3 align="center"> DEVELOPER DOCUMENTATION </h3>
