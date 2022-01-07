@@ -1,6 +1,6 @@
 # Flutter-Patna-Proj
 <p align="center"> 
-  <img src="readmeAssets/appName2x.png" alt="Pacman Logo"height="80px">
+  <img src="readmeAssets/appName2x.png" alt="Pacman Logo"height="60px">
 </p>
 <h1 align="center"> Pacman Agent </h1>
 <h3 align="center"> COMP 6721 - Artificial Intelligence </h3>
