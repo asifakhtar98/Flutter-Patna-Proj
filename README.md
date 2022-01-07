@@ -7,7 +7,7 @@
 
 <!--/////////////////////////////-->
 <h3 align="center">Languages and Packages Used:</h3>
-<p align="center">  <img src="https://res.cloudinary.com/asifakhtarcloudinary/image/upload/v1641220978/AsifPortfolio/Flutter-480.png" alt="flutter" width="40" height="40"/><p align="center">  <img src="https://res.cloudinary.com/asifakhtarcloudinary/image/upload/v1641220978/AsifPortfolio/Flutter-480.png" alt="flutter" width="40" height="40"/>  </a> </p>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">  </a> </p>
 
 <!--////////////////////////////////////////////!-->
 <p align="center"> 
