@@ -105,3 +105,33 @@
 
 
 
+Hi😎, I'm ASIF AKHTAR
+=====================
+
+![](https://media.giphy.com/media/Oz8UPcfxxvpSsNR7tB/giphy.gif)
+
+### A passionate frontend developer from Assam India
+
+![asifakhtar98](https://komarev.com/ghpvc/?username=asifakhtar98&label=Profile%20views&color=00bd97&style=flat-square)
+
+[![asifakhtar98](https://github-profile-trophy.vercel.app/?username=asifakhtar98)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
+
+\- 🔭 I’m currently working on \*\*Freelance\*\* - 🌱 I’m currently learning \*\*Dart Advance, Flutter, Next JS\*\* - 👨‍💻 All of my projects are available at \[https://startupassamportfolio.web.app/\](https://startupassamportfolio.web.app/) - 📝 I regularly write articles on \[https://startupassamportfolio.web.app/\](https://startupassamportfolio.web.app/) - 📫 How to reach me \*\*asifakhtar91298.personal@gmail.com\*\* - 📄 Know about my experiences \[https://startupassamportfolio.web.app/\](https://startupassamportfolio.web.app/) - ⚡ Fun fact \*\*I do basically -> East Code Sleep Also Bath Twice A Day\*\*
+
+### Connect with me:
+
+[![asif-akhtar98](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/asif-akhtar98) [![asifakhtar91298](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/asifakhtar91298) [![ios_android_developer_the_asif](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/ios_android_developer_the_asif) [![asif-akhtar98](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/asif-akhtar98)
+
+![demo](https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif)
+
+### Languages and Tools:
+
+ [![android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com) [ ![appwrite](https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg) ](https://appwrite.io) [ ![arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) ](https://www.arduino.cc/) [ ![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) ](https://dart.dev) [ ![figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) ](https://www.figma.com/) [ ![firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ](https://firebase.google.com/) [ ![flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) ](https://flutter.dev) [ ![gcp](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) ](https://cloud.google.com) [ ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/) [ ![ifttt](https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg) ](https://ifttt.com/) [ ![kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) ](https://kubernetes.io) [ ![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ](https://www.mysql.com/) [ ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ](https://nodejs.org) [ ![photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) ](https://www.photoshop.com/en) [ ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ](https://postman.com) [ ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ](https://www.python.org) [ ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ](https://reactjs.org/) [ ![sketch](https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg) ](https://www.sketch.com/) [![zapier](https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg)](https://zapier.com) 
+
+![asifakhtar98](https://github-readme-stats.vercel.app/api/top-langs?username=asifakhtar98&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+
+ ![asifakhtar98](https://github-readme-stats.vercel.app/api?username=asifakhtar98&show_icons=true&theme=tokyonight&locale=en)
+
+![asifakhtar98](https://github-readme-streak-stats.herokuapp.com/?user=asifakhtar98&theme=highcontrast)
